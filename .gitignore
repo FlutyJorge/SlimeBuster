@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#追加分
+Assets/TextMesh Pro/Fonts/LiberationSans SDF_EnemyDamage.asset
+Assets/TextMesh Pro/Fonts/LiberationSans SDF_EnemyDamage.asset.meta
